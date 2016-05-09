@@ -1,0 +1,34 @@
+{
+  "name": "cdoc",
+  "version": "0.1.0",
+  "description": "A web interface for editing documentation of projects",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DCStudios/cDoc.git"
+  },
+  "keywords": [
+    "doc",
+    "cdoc",
+    "php",
+    "cedrik",
+    "dubois",
+    "dcstudio"
+  ],
+  "author": "Cédrik Dubois",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/DCStudios/cDoc/issues"
+  },
+  "homepage": "https://github.com/DCStudios/cDoc#readme",
+  "dependencies": {
+    "grunt": "^1.0.1"
+  },
+  "devDependencies": {
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-watch": "^1.0.0"
+  }
+}

@@ -1,0 +1,8 @@
+{
+    "sass.enabled": false,
+    "path": {
+        "scss": {
+            "sass.enabled": false
+        }
+    }
+}
